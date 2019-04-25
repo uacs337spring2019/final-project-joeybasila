@@ -11,7 +11,7 @@
     "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "script": "node final_service.js"
+    "start": "node final_service.js"
   },
   "engines":{
     "node": "10.15.1",
