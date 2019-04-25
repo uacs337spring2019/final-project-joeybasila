@@ -9,16 +9,16 @@
     "fs": "^0.0.1-security"
   },
   "scripts": {
-    "start": "node final_service.js"
-    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node final_service.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/uacs337spring2019/final-project-joeybasila.git"
   },
   "author": "Joey basila",
-  "license": "ISC"
+  "license": "ISC",
   "bugs": {
     "url": "https://github.com/uacs337spring2019/final-project-joeybasila/issues"
-  },
+  }
 }
