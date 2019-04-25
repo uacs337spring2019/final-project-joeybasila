@@ -4,7 +4,7 @@
 
 	const fs = require("fs");
 
-	app.use(express.static(__dirname));
+	app.use(express.static('public'));
 
 	function get_categories(file_name){
 		let json = {};
