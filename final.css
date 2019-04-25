@@ -1,0 +1,35 @@
+body {
+	text-align: center;
+	background-color: #222222;
+	color: white;
+}
+
+canvas {
+	background-color: white;
+}
+
+#flex {
+	display: flex;
+	justify-content: center;
+}
+
+#item1 {
+	align-self: center;
+}
+
+#item2 {
+	margin-left: 10px;
+}
+
+#used {
+	border-style: dashed;
+}
+
+#rip {
+	margin-top: 20px;
+	border-top: dotted;
+}
+
+#top {
+	margin-top: 20px;
+}

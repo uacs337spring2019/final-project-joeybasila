@@ -1,0 +1,8 @@
+@Animals
+cat,dog,elephant,monkey,opossum,honey badger,jellyfish,humpback whale,ladybug,penguin
+@Programming
+javascript,css,python,java,html,recursion,binary trees,github,java service,commenting
+@Video Games
+super mario bros,grand theft auto 5,minecraft,tetris,pacman,sonic the hedgehog,super smash brothers,pokemon,halo,call of duty
+@Music
+nipsey hussle,marshmello,drake,travis scott,elton john,weezer,the beetles,kendrick lamar,pink floyd,green day
