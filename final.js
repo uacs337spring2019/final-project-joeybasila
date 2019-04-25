@@ -21,7 +21,7 @@ the json is sent into different functions. These functions are called when
 the buttons on the paged are clicked
 */
 	window.onload = function() {
-		var url = " http://csc337hangman.herokuapp.com";
+		var url = "http://csc337hangman.herokuapp.com";
 		fetch(url)
 			.then(checkStatus)
 			.then(function(responseText) {
