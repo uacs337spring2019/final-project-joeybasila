@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Hangman</title>
+	<link rel="stylesheet" type="text/css" href="final.css">
+	<script type="text/javascript" src="final.js"></script>
+</head>
+<body>
+	<h1>Hangman</h1>
+	<div id="flex">
+		<div id="item1">
+			<canvas width="300" height="300" id="hangman"></canvas>
+		</div>
+		<div id="item2">
+			<p>Used letters:</p>
+			<p id="used"></p>
+		</div>
+	</div>
+	<div id="letters"></div>
+	<div>
+		<p>
+			Select Category below then press Start Game.
+		</p>
+	</div>
+	<select id="categories"></select>
+	<button id="submitCategory">Start Game</button>
+	<textarea id="guess" rows="1">Ente.r letter here</textarea>
+	<button id="submitGuess">submit</button>
+	<div>
+		<p>If you know the full answer:</p>
+		<textarea id="fullanswer" rows="1">Enter answer here</textarea>
+		<button id="fullbutton">submit</button>
+	</div>
+	<div id="rip">
+		<p id="top">
+			"Thought is powerful in all phases. Even in my career, even in my life, things end up exactly how i visualized them."
+		</p>
+		<p>
+			- Nipsey Hussle, R.I.P.
+		</p>
+	</div>
+</body>
+</html>
